@@ -17,14 +17,14 @@ document.write("La resta es = "+( parseInt(Num1)- parseInt(Num2) ) );
 
 const pi=3.1416;
 var a;
-r=5.3;
+var r=5.3;
 a= pi*r*r;
 document.write("El área del circulo es = "+a);
 
 /* --Ejercicio 4-- */
 /*Calcular el área de un rombo (D=8,d=6, Formula = a=D*d/2;)*/
 
-D=8;
-d=6;
+var D=8;
+var d=6;
 a=D*d/2;
 document.write("El área del rombo es = "+a);
