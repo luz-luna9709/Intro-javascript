@@ -10,7 +10,7 @@ let edad = Number(prompt('Ingresa tu edad:'));
    }
 }
    else if((nombre == 'Mario' || nombre == 'Carlos' ) && edad >= 18){
-    console.log('Pueden ingresar a la zona VIP');
+    console.log('Pueden ingresar al area VIP');
 }
 
 
